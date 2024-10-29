@@ -1,8 +1,8 @@
 # Familiar With
-[![Familiar with](https://skillicons.dev/icons?i=discord,github,css,html,js,react,php,jquery,nodejs,mysql,mongodb,postgres&theme=light)](https://www.kasperg.net)
+[![Familiar with](https://skillicons.dev/icons?i=github,css,html,js,php,jquery,nodejs,mysql,mongodb,postgres,sqlite,nginx,sublime&theme=light)](https://www.kasperg.net)
 
 # Exploring
-[![Familiar with](https://skillicons.dev/icons?i=docker,unreal,cpp,cs&theme=light)](https://www.kasperg.net)
+[![Familiar with](https://skillicons.dev/icons?i=discord,discordjs,react,docker,blender,unreal,cpp,cs,vscode&theme=light)](https://www.kasperg.net)
 
 # 
 ![](https://komarev.com/ghpvc/?username=Cashper&color=brightgreen)
